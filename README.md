@@ -72,8 +72,8 @@ I am particularly interested in system‑level engineering that bridges **hardwa
 
 ##  Contact
 -  LinkedIn: https://www.linkedin.com/in/moataz-rafeq-bb1341318 
-- 📧 Email: moatazrafek@gmail.com  
+-  Email: moatazrafek@gmail.com  
 
 ---
 
-📌 **Currently seeking internship opportunities in Networking and Telecommunications.**
+ **Currently seeking internship opportunities in Networking and Telecommunications.**

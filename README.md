@@ -1,83 +1,79 @@
-# Hi 👋, I'm Moataz Rafek
+#  Hi, I’m Moataz Rafeq
 
-Networking & Telecom Engineer in Progress (CCNA Certified)
+ Electrical & Communication Engineering Student  
+ **STEM School Graduate** – Project‑based, research‑oriented education  
+ Networking & Telecom Engineer in Progress | **CCNA Certified**
 
 ---
 
 ## About Me
+I am an Electrical & Communication Engineering student with a strong foundation in **Networking and Telecommunications**, complemented by hands‑on experience in **embedded systems, robotics, and electronics**.
 
-Electrical & Communication Engineering student focused on building a strong foundation in networking and telecom systems, with practical experience in embedded systems and electronics.
+As a STEM school graduate, I developed a problem‑solving mindset through intensive **capstone projects**, **engineering competitions**, and **multidisciplinary team projects**, which shaped my approach to building practical, real‑world engineering solutions.
 
-I am particularly interested in real-world engineering applications that combine hardware and software, including robotics and system-level design.
+I am particularly interested in system‑level engineering that bridges **hardware and software**, including networking infrastructure, robotics, and autonomous systems.
 
 ---
 
 ## Technical Skills
 
-### Networking & Telecom (Primary)
+###  Networking & Telecommunications (Primary)
+- CCNA (Routing & Switching)
+- Network Design & Subnetting
+- Cisco Packet Tracer Labs
+- Basic understanding of Mobile Networks (2G / 3G / 4G / 5G)
 
-* CCNA (Routing & Switching)
-* Network Design & Subnetting
-* Packet Tracer Labs
-* Basic understanding of Mobile Networks (2G/3G/4G/5G)
+###  Embedded Systems & Robotics (Secondary)
+- Microcontrollers & Arduino
+- Sensors Integration
+- Autonomous & Manual Robotics Applications
 
-### Embedded Systems & Robotics (Secondary)
+###  Programming Languages
+- C  
+- C++ (Arduino)
+- MATLAB
+- Assembly Language
+- Basic knowledge of Fortran & Visual Basic
 
-* Microcontrollers & Arduino
-* Sensors Integration
-* Robotics Applications
-
-### Programming
-
-* C
-* C++ (Arduino)
-* MATLAB
-* Assembly Language
-* Basic knowledge of Fortran & Visual Basic
-
-### Simulation & Engineering Tools
-
-* Multisim
-* LTspice
-* Proteus
-* Circuit Wizard
-* Cadence
-* ADS (Microwave & Electromagnetic Simulation)
-* QtSpim
+###  Simulation & Engineering Tools
+- Multisim
+- LTspice
+- Proteus
+- Circuit Wizard
+- Cadence
+- ADS (Microwave & Electromagnetic Simulation)
+- QtSpim
 
 ---
 
-## Projects
+##  Projects
+- **Autonomous Line Following Robot with Obstacle Avoidance**  
+  Designed and implemented a robot using IR sensors to follow predefined paths and dynamically avoid obstacles in real time.
 
-**Autonomous Line Following Robot with Obstacle Avoidance**
-Designed and implemented a robot using IR sensors to follow paths and avoid obstacles in real time.
+- **Firefighter Robot (Manual & Autonomous)** *(Team Project)*  
+  Developed a robotic system capable of detecting and extinguishing fire using sensor‑based control logic.  
+   **2nd Place – IEEE Firefighter Robot Competition**
 
-**Fire Fighting Robot (Team Project)**
-Developed a robotic system capable of detecting and extinguishing fire using sensor-based control logic.
+- **Network Design & Simulation Labs**  
+  Built and tested multiple network topologies using Cisco Packet Tracer, focusing on routing, switching, and subnetting.
 
-**Network Design & Simulation Labs**
-Built and tested multiple network topologies using Packet Tracer, focusing on routing, switching, and subnetting.
-
-**Linux Automation Scripts**
-Created basic scripts to automate system tasks and improve workflow efficiency.
-
----
-
- ## Achievements
-
-- 🥇 1st Place – Engineering Hackathon  
-  Developed a robotics-based solution as part of a team project.  
-  Recognized for delivering a practical and effective engineering solution.
-  
- 2nd Place – Firefighter Robot IEEE Competition (Manual & Autonomous)
+- **Linux Automation Scripts**  
+  Created basic shell scripts to automate system tasks and improve workflow efficiency.
 
 ---
 
-## Contact
-
-*  LinkedIn: (www.linkedin.com/in/moataz-rafeq-bb1341318)
-*  Email: (moatazrafek@gmail.com)
+##  Achievements
+-  **1st Place – Engineering Hackathon**  
+  Recognized for delivering a practical, robotics‑based engineering solution.
+-  **2nd Place – Firefighter Robot Competition (Manual & Autonomous)**  
+  IEEE Robotics Competition
 
 ---
 
-I am currently looking for internship opportunities in Networking and Telecom.
+##  Contact
+-  LinkedIn: https://www.linkedin.com/in/moataz-rafeq-bb1341318 
+- 📧 Email: moatazrafek@gmail.com  
+
+---
+
+📌 **Currently seeking internship opportunities in Networking and Telecommunications.**

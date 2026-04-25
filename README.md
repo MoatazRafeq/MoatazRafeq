@@ -36,13 +36,13 @@ I am particularly interested in system‑level engineering that bridges **hardwa
 - Basic knowledge of Fortran & Visual Basic
 
 ###  Simulation & Engineering Tools
-- Multisim
-- LTspice
-- Proteus
-- Circuit Wizard
-- Cadence
-- ADS (Microwave & Electromagnetic Simulation)
-- QtSpim
+- Multisim (circuit design & analysis)
+- LTspice (analog circuit simulation)
+- Proteus (embedded systems simulation & testing)
+- Circuit Wizard (basic circuit design)
+- Cadence (IC design & electronic simulation)
+- ADS (Microwave & Electromagnetic simulation)
+- QtSpim (assembly-level simulation)
 
 ---
 

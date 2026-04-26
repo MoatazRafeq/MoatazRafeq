@@ -1,79 +1,18 @@
-#  Hi, I’m Moataz Rafeq
 
- Electrical & Communication Engineering Student  
- **STEM School Graduate** – Project‑based, research‑oriented education  
- Networking & Telecom Engineer in Progress | **CCNA Certified**
+##  Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/moataz3925) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100009301657243) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moataz-rafeq-bb1341318/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moatazrafek@gmail.com) 
 
----
+#  Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+#  GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MoatazRafeq&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=MoatazRafeq&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MoatazRafeq&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## About Me
-I am an Electrical & Communication Engineering student with a strong foundation in **Networking and Telecommunications**, complemented by hands‑on experience in **embedded systems, robotics, and electronics**.
-
-As a STEM school graduate, I developed a problem‑solving mindset through intensive **capstone projects**, **engineering competitions**, and **multidisciplinary team projects**, which shaped my approach to building practical, real‑world engineering solutions.
-
-I am particularly interested in system‑level engineering that bridges **hardware and software**, including networking infrastructure, robotics, and autonomous systems.
-
----
-
-## Technical Skills
-
-###  Networking & Telecommunications (Primary)
-- CCNA (Routing & Switching)
-- Network Design & Subnetting
-- Cisco Packet Tracer Labs
-- Basic understanding of Mobile Networks (2G / 3G / 4G / 5G)
-
-###  Embedded Systems & Robotics (Secondary)
-- Microcontrollers & Arduino
-- Sensors Integration
-- Autonomous & Manual Robotics Applications
-
-###  Programming Languages
-- C  
-- C++ (Arduino)
-- MATLAB
-- Assembly Language
-- Basic knowledge of Fortran & Visual Basic
-
-###  Simulation & Engineering Tools
-- Multisim (circuit design & analysis)
-- LTspice (analog circuit simulation)
-- Proteus (embedded systems simulation & testing)
-- Circuit Wizard (basic circuit design)
-- Cadence (IC design & electronic simulation)
-- ADS (Microwave & Electromagnetic simulation)
-- QtSpim (assembly-level simulation)
+###  Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MoatazRafeq&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=MoatazRafeq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-##  Projects
-- **Autonomous Line Following Robot with Obstacle Avoidance**  
-  Designed and implemented a robot using IR sensors to follow predefined paths and dynamically avoid obstacles in real time.
-
-- **Firefighter Robot (Manual & Autonomous)** *(Team Project)*  
-  Developed a robotic system capable of detecting and extinguishing fire using sensor‑based control logic.  
-   **2nd Place – IEEE Firefighter Robot Competition**
-
-- **Network Design & Simulation Labs**  
-  Built and tested multiple network topologies using Cisco Packet Tracer, focusing on routing, switching, and subnetting.
-
-- **Linux Automation Scripts**  
-  Created basic shell scripts to automate system tasks and improve workflow efficiency.
-
----
-
-##  Achievements
--  **1st Place – Engineering Hackathon**  
-  Recognized for delivering a practical, robotics‑based engineering solution.
--  **2nd Place – Firefighter Robot Competition (Manual & Autonomous)**  
-  IEEE Robotics Competition
-
----
-
-##  Contact
--  LinkedIn: https://www.linkedin.com/in/moataz-rafeq-bb1341318 
--  Email: moatazrafek@gmail.com  
-
----
-
- **Currently seeking internship opportunities in Networking and Telecommunications.**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

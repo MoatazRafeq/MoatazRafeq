@@ -1,37 +1,17 @@
-<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .text {
-      font-family: 'Segoe UI', Arial, sans-serif;
-      font-weight: 600;
-      fill: #00c7ff;
-    }
-    .sub {
-      fill: #d1d5db;
-      font-weight: 500;
-    }
-  </style>
+<div align="center">
 
-  <!-- Fade animation -->
-  <g>
-    <animate attributeName="opacity"
-             values="0;1;0;1;0;1;0.5;1"
-             keyTimes="0;0.15;0.25;0.4;0.5;0.65;0.8;1"
-             dur="6s"
-             fill="freeze" />
-             
-    <text x="400" y="70" text-anchor="middle" font-size="36" class="text">
-      Moataz Rafeq
-    </text>
+<h1 style="margin-bottom: 5px;"> Moataz Rafeq</h1>
 
-    <text x="400" y="115" text-anchor="middle" font-size="22" class="sub">
-      STEM School Graduate
-    </text>
+<h3 style="margin-top: 0; margin-bottom: 5px;">
+STEM School Graduate
+</h3>
 
-    <text x="400" y="150" text-anchor="middle" font-size="20" class="sub">
-      Electrical & Communication Engineering
-    </text>
-  </g>
-</svg>
+<h4 style="margin-top: 0;">
+Electrical & Communication Engineering
+</h4>
+
+</div>
+``
 ---
 
 <div align="center">

@@ -1,9 +1,12 @@
 <div align="center">
 
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=00C7FF&center=true&vCenter=true&width=900&lines=Moataz+Rafeq;Electrical+%26+Communication+Engineering;STEM+School+Graduate)
+https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C7FF&center=true&vCenter=true&width=800&lines=Moataz+Rafeq
+
+### Electrical & Communication Engineering
+### STEM School Graduate
 
 </div>
-
+``
 
 ---
 

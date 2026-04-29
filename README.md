@@ -1,17 +1,18 @@
 <div align="center">
 
-<h1 style="margin-bottom: 5px;"> Moataz Rafeq</h1>
+<h1 style="color:#00c7ff; letter-spacing:1px;">
+ Moataz Rafeq 
+</h1>
 
-<h3 style="margin-top: 0; margin-bottom: 5px;">
-STEM School Graduate
+<h3 style="margin-top:-10px; color:#e5e7eb;">
+Electrical & Communication Engineering
 </h3>
 
-<h4 style="margin-top: 0;">
-Electrical & Communication Engineering
+<h4 style="margin-top:-10px; color:#9ca3af;">
+STEM School Graduate
 </h4>
 
 </div>
-``
 ---
 
 <div align="center">

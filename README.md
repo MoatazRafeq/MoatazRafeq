@@ -1,11 +1,19 @@
 <div align="center">
 
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C7FF&center=true&vCenter=true&width=800&lines=Moataz+Rafeq)
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C7FF&center=true&vCenter=true&width=800&lines=Moataz+Rafeq" />
+</picture>
 
-### Electrical & Communication Engineering
-### STEM School Graduate
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=100000&color=00C7FF&center=true&vCenter=true&width=800&lines=Electrical+%26+Communication+Engineering" />
+</picture>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=100000&color=00C7FF&center=true&vCenter=true&width=800&lines=STEM+School+Graduate" />
+</picture>
 
 </div>
+``
 
 ---
 

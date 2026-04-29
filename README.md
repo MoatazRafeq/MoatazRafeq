@@ -80,5 +80,6 @@
 
 
 ---
+<div align="center">
 
 [![](https://komarev.com/ghpvc/?username=MoatazRafeq&color=blue)](https://visitcount.itsvg.in)

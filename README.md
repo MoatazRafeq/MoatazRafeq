@@ -1,18 +1,16 @@
-<div align="center">
+<p align="center">
 
-<h1 style="color:#00c7ff; letter-spacing:1px;">
- Moataz Rafeq 
-</h1>
+###  **Moataz Rafeq**
+###  *Electrical & Communication Engineering*
+###  *STEM School Graduate*
 
-<h3 style="margin-top:-10px; color:#e5e7eb;">
-Electrical & Communication Engineering
-</h3>
+</p>
 
-<h4 style="margin-top:-10px; color:#9ca3af;">
-STEM School Graduate
-</h4>
+<p align="center">
+  ![](https://img.shields.io/badge/Focus-Networking%20%26%20Embedded-blue)
+  ![](https://img.shields.io/badge/Level-Engineering%20Student-success)
+</p>
 
-</div>
 ---
 
 <div align="center">

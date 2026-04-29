@@ -2,7 +2,7 @@
   Hi, I’m Moataz Rafeq
 
  Electrical & Communication Engineering Student  
- **STEM School Graduate** – Project‑Based & Research‑Oriented Education  
+ **STEM School Graduate**   
  Networking & Telecom Engineer in Progress | **CCNA Certified**
 
 ---
@@ -42,11 +42,6 @@
 <br><br>
 
 ###  Design & Content Tools
-<img src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white"/>
-<img src="https://img.shields.io/badge/After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white"/>
-<img src="https://img.shields.io/badge/Audition-9999FF.svg?style=plastic&logo=Adobe%20Audition&logoColor=white"/>
-<img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white"/>
 

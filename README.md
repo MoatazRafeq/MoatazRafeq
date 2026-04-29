@@ -1,10 +1,8 @@
 <div align="center">
-  Hi, I’m Moataz Rafeq
 
- Electrical & Communication Engineering Student  
- **STEM School Graduate**   
- Networking & Telecom Engineer in Progress | **CCNA Certified**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Moataz+Rafeq;STEM+School+Graduate;Electrical+%26+Communication+Engineering" />
 
+</div>
 ---
 
 <div align="center">

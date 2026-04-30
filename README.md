@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<h2 style="margin-bottom:6px;">🛠️ Tech Stack</h2>
+<h2 style="margin-bottom:6px;"> Tech Stack</h2>
 
 <h3 style="margin-bottom:4px;">Programming Languages</h3>
 
@@ -52,7 +52,7 @@
 
 <hr style="width:65%;">
 
-<h2 style="margin-bottom:6px;">🤝 Connect with Me</h2>
+<h2 style="margin-bottom:6px;"> Connect with Me</h2>
 
 <a href="https://linkedin.com/in/moataz-rafeq-bb1341318">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -69,8 +69,8 @@
 </div>
 
 ---
-
-<h2 style="margin-bottom:6px;">📊 GitHub Stats</h2>
+<div align="center">
+<h2 style="margin-bottom:6px;"> GitHub Stats</h2>
 
 <img src="https://github-readme-stats.shion.dev/api?username=MoatazRafeq&theme=radical&include_all_commits=true&count_private=true"/>
 <img src="https://streak-stats.demolab.com/?user=MoatazRafeq&theme=radical"/>
@@ -78,13 +78,13 @@
 
 ---
 
-<h2 style="margin-bottom:6px;">🏆 GitHub Trophies</h2>
+<h2 style="margin-bottom:6px;"> GitHub Trophies</h2>
 
 <img src="https://github-profile-trophy.vercel.app/?username=MoatazRafeq&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 
 ---
 
-<h3 style="margin-bottom:4px;">🔥 Top Contributed Repo</h3>
+<h3 style="margin-bottom:4px;"> Top Contributed Repo</h3>
 
 <img src="https://github-contributor-stats.vercel.app/api?username=MoatazRafeq&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 

@@ -84,11 +84,6 @@
 
 ---
 
-<h3 style="margin-bottom:4px;"> Top Contributed Repo</h3>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=MoatazRafeq&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-
----
 
 <div align="center">
 

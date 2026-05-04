@@ -1,11 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&pause=700&Graduate" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&pause=700&color=00FFD1&center=true&vCenter=true&width=800&lines=Moataz+Rafeq" />
+<!-- Name Banner (Wave Animation) -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Moataz%20Rafeq&fontAlign=50&fontAlignY=40&color=0:0ea5e9,100:8b5cf6&fontColor=ffffff&fontSize=42" 
+/>
+
+<!-- Subtitle 1 -->
+<img 
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=100000&color=22C55E&center=true&vCenter=true&width=800&lines=Electrical+%26+Communication+Engineering" 
+/>
+
+<!-- Subtitle 2 -->
+<img 
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=100000&color=FACC15&center=true&vCenter=true&width=800&lines=STEM+School+Graduate" 
+/>
 
 </div>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=100000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Electrical+%26+Communication+Engineering" />
-
 
 
 ---

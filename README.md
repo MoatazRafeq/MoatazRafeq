@@ -57,12 +57,6 @@
 
 <br>
 
-<h3 style="margin-bottom:4px;">Design & Content Tools</h3>
-
-<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
-<hr style="width:65%;">
 
 <h2 style="margin-bottom:6px;"> Connect with Me</h2>
 

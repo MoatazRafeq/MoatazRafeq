@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C7FF&center=true&vCenter=true&width=800&lines=Moataz+Rafeq" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=100000&color=00C7FF&center=true&vCenter=true&width=800&lines=Electrical+%26+Communication+Engineering" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=100000&color=00C7FF&center=true&vCenter=true&width=800&lines=STEM+School+Graduate" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&pause=700&Graduate" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&pause=700&color=00FFD1&center=true&vCenter=true&width=800&lines=Moataz+Rafeq" />
 
 </div>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=100000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Electrical+%26+Communication+Engineering" />
+
+
 
 ---
 
